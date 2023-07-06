@@ -1,0 +1,7 @@
+#!/usr/bin/env python3
+'''sum as a floa.
+'''
+
+
+def add(a: float, b: float) -> float:
+    return a + b
