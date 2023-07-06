@@ -8,7 +8,7 @@ def to_kv(k: str, v: Union[int, float]) -> Tuple[str, float]:
     '''
     Converts a string and an int or float to a tuple.
     The first element of the tuple is the string `k`.
-    The second element is the square of the int/float `v` (represented as a float).
+    The second element is the square of the int/float `v`.
 
     Args:
         k: A string.
