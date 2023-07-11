@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-'''Task 2's module.
+'''Task 2
 '''
 import asyncio
-import time
+from time import perf_counter
 from typing import List
 
 async_comprehension = __import__('1-async_comprehension').async_comprehension
